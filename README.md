@@ -1,4 +1,3 @@
-
-<p align="center"> ![0_6rCBTaD7N99u8qRT](https://user-images.githubusercontent.com/51414398/110015123-4cfd3000-7d02-11eb-8378-1294bafeafe0.png)</p>
+![0_SXvexwZvryFczrIG](https://user-images.githubusercontent.com/51414398/110015419-99487000-7d02-11eb-85c3-0270bc85ac43.png)
 
 ETL process done with PySpark.
