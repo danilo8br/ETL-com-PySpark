@@ -7,4 +7,11 @@
 This project, show unique values for the types of films and programs, films that launched in 2020 in Brazil, films that last more than 1 hour in Brazil, the total number of movies on Netflix, the total number of TV shows on Netflix, total movies and TV shows that were added after 01/01/1997 was when Netflix was created, total seasons per series and
 the best serie.
 
+## :thinking:  Why?
 
+To improve my skills with PySpark
+
+## :warning: Prerequisites
+
+- pip install pyspark
+- pip install findspark
