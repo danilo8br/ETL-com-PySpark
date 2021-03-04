@@ -1,4 +1,7 @@
-![1_nPcdyVwgcuEZiEZiRqApug](https://user-images.githubusercontent.com/51414398/110015824-1673e500-7d03-11eb-9092-3226f5a2ba5c.jpeg)
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/51414398/110016016-4f13be80-7d03-11eb-973c-7dd1137b6455.png)
+" />
+</p>
 
 ETL process done with PySpark.
 
