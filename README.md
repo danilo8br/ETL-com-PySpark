@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnOacgi2TbQHmKbNxrw-hrmeEpYeMPorbag&usqp=CAU" />
-</p>
+![0_6rCBTaD7N99u8qRT](https://user-images.githubusercontent.com/51414398/110016378-b6317300-7d03-11eb-831c-e3eb72b93bea.png)
 
 ETL process done with PySpark.
 
